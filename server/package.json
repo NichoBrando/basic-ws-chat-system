@@ -8,9 +8,6 @@
     "express-ws": "^5.0.2",
     "yup": "^0.32.9"
   },
-  "devDependencies": {
-    "@types/express": "^4.17.12"
-  },
   "scripts": {
     "start": "node index.js"
   }
